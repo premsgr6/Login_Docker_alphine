@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-MAINTAINER ybmsr <ybmadhu404@gmail.com>
+MAINTAINER prem <prem_sgr6@yahoo.co.in>
 
 WORKDIR /usr/apps/hello-docker/
 
